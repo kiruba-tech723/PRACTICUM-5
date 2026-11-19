@@ -1,0 +1,57 @@
+body { font-family: Arial, sans-serif; 
+background-color: #eef2f6; 
+margin: 0; padding: 20px; 
+} 
+.box { width: 80%; max-width: 
+800px; margin: 0 auto; 
+padding: 20px; border: 2px 
+solid #12263a; background
+color: #ffffff; 
+} header { text-align: 
+center; 
+} h1 { font-size: 
+36px; color: 
+#12263a; margin: 
+0; 
+} 
+.tagline { font-size: 
+14px; color: 
+#555555; 
+} 
+.menu { display: flex; flex-wrap: 
+wrap; jus fy-content: space
+around; background-color: 
+#12263a; margin: 15px 0; 
+} 
+.menu a { flex: 1 1 
+120px; 
+padding: 12px; color: 
+#ffffff; text-align: center; 
+text-decora on: none; 
+} 
+.banner { display: 
+block; width: 
+100%; height: 
+auto; 
+} 
+.layout { display: 
+flex; flex-wrap: 
+wrap; gap: 15px; 
+margin-top: 15px; 
+} 
+.sidebar { flex: 1 1 200px; 
+background-color: #dde6ef; 
+padding: 15px; 
+} 
+.content { flex: 3 1 400px; 
+background-color: #f5f5f5; 
+padding: 15px; text
+transform: uppercase; font
+size: 15px; 
+} 
+.sidebar h2, .content h2 { font
+size: 20px; text-align: center; 
+} footer { text-align: 
+center; font-size: 12px; 
+margin-top: 15px; 
+}
